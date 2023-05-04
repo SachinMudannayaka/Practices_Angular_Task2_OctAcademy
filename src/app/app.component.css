@@ -1,0 +1,12 @@
+.form-body{
+  margin-top: 15px;
+  text-align: center;
+}
+.no-data-tag{
+  color: red;
+  text-align: center;
+}
+.table-area{
+  position: absolute;
+  left: 30%;
+}
